@@ -1,2 +1,2 @@
 # Capstone_Design
-졸업작품
+Files_produced_for_capstone_design
